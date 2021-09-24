@@ -15,10 +15,10 @@ import {
   IconButton,
 } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
-import one from "../Images/pexels-daria-shevtsova-1824353.jpg";
+import one from "../Images/pexels-daria-shevtsova-1095550.jpg";
 import two from "../Images/pexels-lisa-1279330.jpg";
 import three from "../Images/pexels-nerfee-mirandilla-3186654.jpg";
-import four from "../Images/pexels-valeria-boltneva-1893556.jpg";
+import four from "../Images/pexels-william-choquette-2641886.jpg";
 
 import Home from "@material-ui/icons/Home";
 const useStyles = makeStyles((theam) => ({
