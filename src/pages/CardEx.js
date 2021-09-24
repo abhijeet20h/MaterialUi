@@ -62,15 +62,15 @@ export default function CardEx() {
                   </Typography>
                 </CardContent>
               </CardActionArea>
-
-
-
-{/* second */}
               <CardActions>
                 <Button>Read More</Button>
               </CardActions>
             </Card>
           </Grid>
+
+
+          {/* second card */}
+
           <Grid item sm={3}>
             <Card>
               <CardActionArea>
@@ -93,6 +93,9 @@ export default function CardEx() {
               </CardActions>
             </Card>
           </Grid>{" "}
+
+          {/* Third card */}
+
           <Grid item sm={3}>
             <Card>
               <CardActionArea>
@@ -115,6 +118,9 @@ export default function CardEx() {
               </CardActions>
             </Card>
           </Grid>{" "}
+
+          {/* fourth card */}
+
           <Grid item sm={3}>
             <Card>
               <CardActionArea>
